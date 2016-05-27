@@ -1,4 +1,4 @@
-console.log('This would be the main JS file.');
+
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
